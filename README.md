@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white&amp;link=http://t-accu.kro.kr/"/>
 
-<img src="https://camo.githubusercontent.com/af57589bd04ec424eaf1928ca4ab5a628e8fd84cf665d6bfc374cf7e9193ef5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f6465767374617230323032" alt="Twitter" data-canonical-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/devstar0202" style="max-width:100%;">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" alt="Discord" data-canonical-src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white&amp;link=http://t-accu.kro.kr/" style="max-width:100%;">
 <!--
 **keuheum/keuheum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
