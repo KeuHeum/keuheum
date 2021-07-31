@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+=============
+* I'm student developer!
+* I like python!
+* I'm doing many 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
