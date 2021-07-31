@@ -9,6 +9,27 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white&amp;link=http://t-accu.kro.kr/"/>
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" alt="Discord" data-canonical-src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white&amp;link=http://t-accu.kro.kr/" style="max-width:100%;">
+
+
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=keuheum)  
+
+
+
+![Profile views](https://gpvc.arturio.dev/keuheum)  
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **keuheum/keuheum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
