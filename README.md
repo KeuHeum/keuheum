@@ -1,8 +1,11 @@
  Hi there 👋
 =============
 * I'm student developer!
-* I like python!
-* I'm doing many 
+* I love python!
+* I like doing many project!
+* I'm leader of [Team Accu](https://github.com/Team-Accu, "github link")
+* I'm admin of [Coading lab](https://github.com/coding-1ab, "github link")
+* 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
