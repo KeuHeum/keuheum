@@ -1,7 +1,7 @@
  Hello there 👋
 =============
 - 🌱 I’m currently learning Python, Js, HTML
-- 📫 How to reach me: Discord: [keuheum_](https://discordapp.com/users/604983644733440001), [keu25073@gmail.com](mailto:keu25073@gmail.com)
+- 📫 How to reach me: [Discord: keuheum_](https://discordapp.com/users/604983644733440001), [Mail: keu25073@gmail.com](mailto:keu25073@gmail.com)
 <!--* I'm student developer!
 * I love python!
 * I like doing many project!
