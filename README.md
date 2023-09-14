@@ -1,6 +1,8 @@
- Hi there 👋
+ Hello there 👋
 =============
-* I'm student developer!
+- 🌱 I’m currently learning Python, Js, HTML
+- 📫 How to reach me: Discord: [keuheum_](https://discordapp.com/users/604983644733440001), [keu25073@gmail.com](mailto:keu25073@gmail.com)
+<!--* I'm student developer!
 * I love python!
 * I like doing many project!
 * I'm leader of [Team Accu](https://github.com/Team-Accu, "github link")
@@ -37,7 +39,7 @@ This is an H1
 
 
 
-<!--
+
 **keuheum/keuheum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
