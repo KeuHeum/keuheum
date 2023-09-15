@@ -1,5 +1,5 @@
- Hello there 👋
-=============
+<h1 align="center">Hello there 👋</h1>
+
 - 🌱 I’m currently learning Python, Js, HTML
 - 📫 How to reach me: [Discord: keuheum_](https://discordapp.com/users/604983644733440001), [Mail: keu25073@gmail.com](mailto:keu25073@gmail.com)
 <!--* I'm student developer!
