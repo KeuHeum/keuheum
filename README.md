@@ -1,7 +1,10 @@
 <h1 align="center">Hello there 👋</h1>
 
 - 🌱 I’m currently learning Python, Js, HTML
-- 📫 How to reach me: [Discord: keuheum_](https://discordapp.com/users/604983644733440001), [Mail: keu25073@gmail.com](mailto:keu25073@gmail.com)
+- 📫 How to reach me:
+  - Discord: [keuheum_](https://discordapp.com/users/604983644733440001)
+  - Mail: [keu25073@gmail.com](mailto:keu25073@gmail.com)
+  - All contact lists is [Here!](https://github.com/KeuHeum/KeuHeum/tree/contact)
 <!--* I'm student developer!
 * I love python!
 * I like doing many project!
