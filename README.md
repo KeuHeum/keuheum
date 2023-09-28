@@ -1,6 +1,7 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hi 👋, I'm KeuHeum</h1>
 
-- 🌱 I’m currently learning Python, Js, HTML
+- 🌱 I'm **student developer** from korea
+- 👀 I’m interested in **Python, Js, Html**
 - 📫 How to reach me:
   - Discord: [keuheum_](https://discordapp.com/users/604983644733440001)
   - Mail: [keu25073@gmail.com](mailto:keu25073@gmail.com)
